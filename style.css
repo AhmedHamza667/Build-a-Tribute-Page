@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+}
+header{
+    padding: 2em;
+}
+#title{
+    text-align: center;
+    margin:20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#img-div{
+    background-color: white;
+    text-align: center;
+}
+#image{
+    width: 50%;
+    height: auto;
+    min-width: 500px;
+    max-width: 100%;
+ }
+ #tribute-info{
+    margin: 0 30%;
+ }
